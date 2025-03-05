@@ -1,2 +1,6 @@
 # CompanyAPI_CRUD
-CRUD Operation Using JWT authentication to store Company data in .NET Core.
+
+This is a secured REST API built with ASP.NET Core and EF Core, implementing JWT authentication and CRUD operations for managing company data.
+
+
+
